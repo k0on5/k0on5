@@ -1,6 +1,6 @@
 # Hello
 
-<img src="https://img.shields.io/badge/nigger-6DB33F?style=flat&logo=avajs&logoColor=white">
+<img src="https://img.shields.io/badge/ㅇㅇ-6DB33F?style=flat&logo=avajs&logoColor=white">
 
 
 
