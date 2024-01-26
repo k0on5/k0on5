@@ -1,6 +1,7 @@
 # Hello
 
-<img src="https://img.shields.io/badge/nigger-#F7DF1E?style=for-the-badge&logo=gravatar&logoColor=black">
+<img src="https://img.shields.io/badge/nigger-6DB33F?style=flat&logo=avajs&logoColor=white">
+
 
 
 
