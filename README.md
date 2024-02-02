@@ -1,6 +1,8 @@
 # Hello
-
-<img src="https://img.shields.io/badge/ㅇㅇ-6DB33F?style=flat&logo=avajs&logoColor=white">
+#STUDY
+<img src="https://img.shields.io/badge/vuedotjs-6DB33F?style=flat&logo=vuedotjs&logoColor=white">
+#developable
+<img src="https://img.shields.io/badge/LUA-2C2D72?style=flat&logo=LUA&logoColor=white">
 
 
 
